@@ -1,2 +1,4 @@
 ├.gitignore
-└directory
+└NeuralNetwork
+ └NN
+  └target
